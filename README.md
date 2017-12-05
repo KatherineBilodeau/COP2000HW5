@@ -1,1 +1,1 @@
-# COP2000HW5
+This program is a missing numbers game using arrays. To play the game the user must guess the number. The program should randomly select one of three game boards and display that. When that is displayed, the program should allow the user to guess a number and then compare it to the answer array. The user should have three guesses per board, and play each board once. If one of the boards is answered in three guesses, exit.  Once all of the boards are won, a winner message should be displayed. 
